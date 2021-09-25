@@ -1,2 +1,2 @@
 # Ethical-Hacker-Journey
-Journey to OSCP
+Journey to the WWW
